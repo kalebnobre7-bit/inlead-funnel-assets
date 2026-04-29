@@ -1,0 +1,3 @@
+.inlead-github-token
+*.token
+.env
